@@ -3,7 +3,3 @@ sklearn
 pandas
 numpy
 matplotlib
-
-''''
-pip install -r requirement.txt
-'''''

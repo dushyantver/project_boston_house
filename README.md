@@ -5,3 +5,8 @@
 2. [Heroku Account]
 3. [VS Code IDE]
 4. [GitCLI]
+
+Create a new environment 
+'''''
+conda create -p venv python==3.7 -y
+'''''s
